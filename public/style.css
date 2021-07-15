@@ -41,7 +41,12 @@ input
 button
 {
     border-radius:0 5vw 5vw 0;
+    background: #fff;
+}
+
+button:hover{
     background: #ffffb5;
+
 }
 #chats
 {
