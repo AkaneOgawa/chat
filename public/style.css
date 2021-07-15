@@ -3,9 +3,13 @@
     box-sizing: border-box;
 }
 
+body{
+    background: #d4f0f0;
+}
+
 h1{
     text-align: center;
-    background: #d4f0f0;
+    background: #539696;
     color: #fff;
     font-size: 6vw;
     font-weight: bold;
