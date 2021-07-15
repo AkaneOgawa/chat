@@ -5,9 +5,10 @@
 
 h1{
     text-align: center;
-    background: #888;
+    background: #d4f0f0;
     color: #fff;
-    font-size: 5vw;
+    font-size: 6vw;
+    font-weight: bold;
 }
 
 form {
@@ -35,7 +36,7 @@ input
 button
 {
     border-radius:0 5vw 5vw 0;
-    background: #ccc;
+    background: #fed7c3;
 }
 #chats
 {
@@ -54,7 +55,7 @@ button
 {
     margin-left: 8vw;
     position: relative;
-    background-color:#ccc;
+    background-color:#ffffb5;
     border-radius:3vw;
     padding:1vw 3vw;
 }
