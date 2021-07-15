@@ -73,7 +73,7 @@ button
     left: -6vw;
     margin-top: -7vw;
     border: 3vw solid transparent;
-    border-right: 8vw solid #fff;
+    border-right: 8vw solid #ffffb5bf;
     transform: rotate(40deg);
     z-index: -1;
 }
